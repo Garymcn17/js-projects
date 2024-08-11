@@ -1,0 +1,46 @@
+.inter-body {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-size: xxx-large;
+  font-style: normal;
+}
+
+.items {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-size: x-large;
+  font-style: normal;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.add-btn {
+  height: 40px;
+  border-radius: 5px;
+  border: #f5fbef;
+  margin-left: 5px;
+  width: 40px;
+  background-color: #503d42;
+  color: #f5fbef;
+}
+
+.list-btn {
+  /* background-color: #748b75; */
+  background-color: #f5fbef;
+  border: none;
+}
+
+.input-item {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  width: 25%;
+  background-color: #f5fbef;
+  height: 40px;
+  border-radius: 5px;
+  border: #f5fbef;
+}
