@@ -7,7 +7,6 @@ let counterEl = document.querySelector(".counter-value");
 
 incrementEl1[0].addEventListener("click", () => {
   const value = +counterEl.textContent;
-
   counterEl.textContent = value + 1;
 });
 
